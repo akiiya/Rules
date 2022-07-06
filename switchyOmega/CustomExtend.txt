@@ -1,0 +1,13 @@
+*.mangot5.com
+*.mozilla.org
+*.nflxvideo.net
+*.intercom.io
+*.intercomcdn.com
+*.gcdn.co
+*.google-analytics.com
+*.googletagmanager.com
+*.hs-scripts.com
+*.hs-banner.com
+*.hs-analytics.net
+*.hscollectedforms.net
+*.hubspot.com

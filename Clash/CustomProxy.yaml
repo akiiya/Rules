@@ -1,0 +1,14 @@
+payload:
+  # > CustomProxy
+  - DOMAIN-SUFFIX,rfchost.com
+  - DOMAIN-SUFFIX,cybree.com
+  - DOMAIN-SUFFIX,netmarble.com
+  - DOMAIN-SUFFIX,worldflipper.jp
+  - DOMAIN-SUFFIX,naver.com
+  - DOMAIN-SUFFIX,smartmediarep.com
+  - DOMAIN-SUFFIX,technews.tw
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,digitalvirt.com
+  - DOMAIN-SUFFIX,gigsgigscloud.com
+  

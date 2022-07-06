@@ -1,0 +1,10 @@
+payload:
+  # CustomDirect
+
+  # > CustomDirect
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN,miwifi.com
+  - DOMAIN,pypi.org
+  - DOMAIN-SUFFIX,clash.razord.top
+  - DOMAIN-SUFFIX,yacd.haishan.me
+  - DOMAIN-SUFFIX,tophub.today
