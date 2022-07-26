@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,smartmediarep.com
   - DOMAIN-SUFFIX,technews.tw
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,digitalvirt.com
   - DOMAIN-SUFFIX,gigsgigscloud.com
   - DOMAIN-SUFFIX,docker.com
