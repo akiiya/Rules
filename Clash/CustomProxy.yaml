@@ -1,5 +1,6 @@
 payload:
   # > CustomProxy
+  - DOMAIN-SUFFIX,tn.mk
   - DOMAIN-SUFFIX,rfchost.com
   - DOMAIN-SUFFIX,cybree.com
   - DOMAIN-SUFFIX,netmarble.com
