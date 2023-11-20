@@ -14,4 +14,4 @@ payload:
   - DOMAIN-SUFFIX,digitalvirt.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,hostloc.com
-  
+  - DOMAIN-SUFFIX,virmach.com
