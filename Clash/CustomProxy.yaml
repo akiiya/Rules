@@ -15,3 +15,10 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,virmach.com
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,doubleclick.net
