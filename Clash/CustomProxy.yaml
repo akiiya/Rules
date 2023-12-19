@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,larksuite.com
