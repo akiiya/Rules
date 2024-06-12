@@ -19,13 +19,15 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,jsdelivr.net
+  # - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,larksuite.com
-  - DOMAIN-SUFFIX,flowbank.com
   - DOMAIN-SUFFIX,recaptcha.net
+
+  # 欧洲/英国玩卡
   - DOMAIN-SUFFIX,bonify.de
+  - DOMAIN-SUFFIX,flowbank.com
   - DOMAIN-SUFFIX,usercentrics.eu
   - DOMAIN-SUFFIX,app.adjust.com
   - DOMAIN-SUFFIX,n26.com
