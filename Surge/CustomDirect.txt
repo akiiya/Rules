@@ -11,4 +11,3 @@ DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,virmach.com
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,gigsgigscloud.com
