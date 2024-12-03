@@ -81,6 +81,8 @@ payload:
   - DOMAIN-KEYWORD,checkmyfile
   - DOMAIN-SUFFIX,co.uk
   - DOMAIN-KEYWORD,monzo
+
+  #clubsim wificalling
   - DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com
   - DOMAIN-SUFFIX,hhk.prod.ondemandconnectivity.com
   - DOMAIN-SUFFIX,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
