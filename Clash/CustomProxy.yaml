@@ -82,9 +82,15 @@ payload:
   - DOMAIN-SUFFIX,co.uk
   - DOMAIN-KEYWORD,monzo
 
+  # 地区检测
+  - DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+
   #clubsim wificalling
   - DOMAIN,csl.prod.ondemandconnectivity.com
   - DOMAIN,hhk.prod.ondemandconnectivity.com
   - DOMAIN,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
   - DOMAIN,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
   - DOMAIN,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+
+  #giffgaff wificalling
+  - IP-CIDR,87.194.0.0/16
