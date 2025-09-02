@@ -86,6 +86,11 @@ payload:
   - DOMAIN,hashkey.zrsec.com
   - DOMAIN,ngpro.zr66.com
   - DOMAIN,backendpro.zr66.com
+  - DOMAIN,zhuorui-config.oss-accelerate.aliyuncs.com
+  - DOMAIN,previewpro.zr66.com
+  - DOMAIN,backendpro.zr66.com
+  - DOMAIN,alogus.umeng.com
+  - DOMAIN-SUFFIX,getui.com
 
   # 地区检测
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
