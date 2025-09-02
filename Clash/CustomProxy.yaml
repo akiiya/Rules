@@ -83,14 +83,9 @@ payload:
   - DOMAIN-KEYWORD,monzo
 
   # 卓锐证券
-  - DOMAIN,hashkey.zrsec.com
-  - DOMAIN,ngpro.zr66.com
-  - DOMAIN,backendpro.zr66.com
-  - DOMAIN,zhuorui-config.oss-accelerate.aliyuncs.com
-  - DOMAIN,previewpro.zr66.com
-  - DOMAIN,backendpro.zr66.com
-  - DOMAIN,alogus.umeng.com
-  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,zrsec.com      # 保险起见（含 hashkey 子域）
+  - DOMAIN-SUFFIX,zr66.com       # 主后端网关
+  - DOMAIN-SUFFIX,zrsecbk.com    # 若涉及资金侧协同校验
 
   # 地区检测
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
