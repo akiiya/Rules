@@ -82,8 +82,10 @@ payload:
   - DOMAIN-SUFFIX,co.uk
   - DOMAIN-KEYWORD,monzo
 
-  # 卓锐证券虚拟币
+  # 卓锐证券
   - DOMAIN,hashkey.zrsec.com
+  - DOMAIN,ngpro.zr66.com
+  - DOMAIN,backendpro.zr66.com
 
   # 地区检测
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
