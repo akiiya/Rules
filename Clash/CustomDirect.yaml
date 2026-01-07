@@ -4,7 +4,6 @@ payload:
   # > CustomDirect
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,pypi.org
-  - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,clash.razord.top
   - DOMAIN-SUFFIX,yacd.haishan.me
@@ -15,3 +14,8 @@ payload:
   - DOMAIN-SUFFIX,ucweb.com
   - DOMAIN-SUFFIX,virmach.com
   - DOMAIN-SUFFIX,hcaptcha.com
+
+  # 京东
+  - DOMAIN-SUFFIX,3.cn
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,360buyimg.com
