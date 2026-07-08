@@ -82,6 +82,9 @@ payload:
   - DOMAIN-SUFFIX,co.uk
   - DOMAIN-KEYWORD,monzo
 
+  #linux.do
+  - DOMAIN-SUFFIX,linudo.org
+
   # 地区检测
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 
